@@ -106,7 +106,7 @@ La variable `Target` representa el precio de cierre ajustado del siguiente día.
 
 ---
 
-## Flujo experimental
+## ¿Cómo replicarlo?
 
 La predicción sigue esta secuencia:
 
